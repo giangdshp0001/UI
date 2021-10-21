@@ -1,0 +1,1599 @@
+E:\BTTTTN\QLNS\QLNS\bin\Debug\QLNS.exe
+E:\BTTTTN\QLNS\QLNS\bin\Debug\QLNS.pdb
+E:\BTTTTN\QLNS\QLNS\obj\Debug\ResolveAssemblyReference.cache
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.exe
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.pdb
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+E:\BTTTTN\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+E:\BTTTTN\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+E:\BTTTTN\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+E:\BTTTTN\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+E:\BTTTTN\QLNS\QLNS\bin\Debug\QLNS.exe.config
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+E:\BTTTTN\QLNS\QLNS\obj\Debug\QLNS.frmbaocao.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\bin\Debug\QLNS.exe.config
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.exe
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.pdb
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\ResolveAssemblyReference.cache
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmbaocao.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\bin\Debug\QLNS.exe
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\bin\Debug\QLNS.pdb
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+E:\BTTTTN\Nhóm 10 -  quản lý nhân sự\QLNS\QLNS\obj\Debug\QLNS.fRMBCphongban.resources
+C:\Documents and Settings\HelloMotor\Desktop\QLNS\QLNS\QLNS\bin\Debug\QLNS.exe.config
+C:\Documents and Settings\HelloMotor\Desktop\QLNS\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\HelloMotor\Desktop\QLNS\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\HelloMotor\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+C:\Documents and Settings\HelloMotor\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.exe
+C:\Documents and Settings\HelloMotor\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.pdb
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\bin\Debug\QLNS.exe.config
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.exe
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.pdb
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\bin\Debug\QLNS.exe
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\bin\Debug\QLNS.pdb
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmbaocao.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.fRMBCphongban.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+C:\Documents and Settings\HelloMotor\Desktop\Doan totnghiep\265v707\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+H:\265v707\QLNS\QLNS\bin\Debug\QLNS.exe.config
+H:\265v707\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+H:\265v707\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.exe
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.pdb
+H:\265v707\QLNS\QLNS\bin\Debug\QLNS.exe
+H:\265v707\QLNS\QLNS\bin\Debug\QLNS.pdb
+H:\265v707\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+H:\265v707\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+H:\265v707\QLNS\QLNS\obj\Debug\ResolveAssemblyReference.cache
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmbaocao.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.fRMBCphongban.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+H:\265v707\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+G:\Thach\QLNS\QLNS\bin\Debug\QLNS.exe.config
+G:\Thach\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+G:\Thach\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.exe
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.pdb
+G:\Thach\QLNS\QLNS\bin\Debug\QLNS.exe
+G:\Thach\QLNS\QLNS\bin\Debug\QLNS.pdb
+G:\Thach\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+G:\Thach\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+G:\Thach\QLNS\QLNS\obj\Debug\ResolveAssemblyReference.cache
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmbaocao.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.fRMBCphongban.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+G:\Thach\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\bin\Debug\QLNS.exe.config
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.exe
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.pdb
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\bin\Debug\QLNS.exe
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\bin\Debug\QLNS.pdb
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmbaocao.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.fRMBCphongban.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+C:\Documents and Settings\HelloMotor\Desktop\Thach\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\bin\Debug\QLNS.exe.config
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.exe
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.pdb
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\bin\Debug\QLNS.exe
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\bin\Debug\QLNS.pdb
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\ResolveAssemblyReference.cache
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmbaocao.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.fRMBCphongban.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+D:\Do an Tot Nghiep\Thach\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+D:\Do an Tot Nghiep\Hoàn Chỉnh\QLNS\QLNS\bin\Debug\QLNS.exe.config
+D:\Do an Tot Nghiep\Hoàn Chỉnh\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+D:\Do an Tot Nghiep\Hoàn Chỉnh\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+D:\Do an Tot Nghiep\Hoàn Chỉnh\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+D:\Do an Tot Nghiep\Hoàn Chỉnh\QLNS\QLNS\obj\Debug\QLNS.exe
+D:\Do an Tot Nghiep\Hoàn Chỉnh\QLNS\QLNS\obj\Debug\QLNS.pdb
+D:\Do an Tot Nghiep\Data\Soucre\QLNS\QLNS\bin\Debug\QLNS.exe.config
+D:\Do an Tot Nghiep\Data\Soucre\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+D:\Do an Tot Nghiep\Data\Soucre\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+D:\Do an Tot Nghiep\Data\Soucre\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+D:\Do an Tot Nghiep\Data\Soucre\QLNS\QLNS\obj\Debug\QLNS.exe
+D:\Do an Tot Nghiep\Data\Soucre\QLNS\QLNS\obj\Debug\QLNS.pdb
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\bin\Debug\QLNS.exe.config
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.exe
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.pdb
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\bin\Debug\QLNS.exe
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\bin\Debug\QLNS.pdb
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmbaocao.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.fRMBCphongban.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\bin\Debug\CrystalDecisions.VSDesigner.resources.dll
+C:\Users\DELL\Downloads\da\nhansu2\[Sharecode.vn] Phan mem quan ly nhan su full code c# + bao cao\Soucre\QLNS\QLNS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\bin\Debug\QLNS.exe.config
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.exe
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.pdb
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\bin\Debug\QLNS.exe
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\bin\Debug\QLNS.pdb
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.bcnv.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\RdlCompile.cache
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\RdlCompile.compiled
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+C:\Users\DELL\Desktop\da2\Soucre\QLNS\QLNS\obj\Debug\QLNS.Form1.resources
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.csprojAssemblyReference.cache
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.bcnv.resources
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.Form1.resources
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.cache
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.csproj.CoreCompileInputs.cache
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.exe
+D:\Bai tap phan tich sys UML\QLNS\QLNS\obj\Debug\QLNS.pdb
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\QLNS.exe.config
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.exe
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.pdb
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.csprojResolveAssemblyReference.cache
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.bcnv.resources
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.Form1.resources
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\QLNS.exe
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\QLNS.pdb
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\FlashControlV71.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\log4net.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\System.Web.Services.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\stdole.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\log4net.xml
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\cs\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\da\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\de\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\en\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\fi\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\fr\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\hu\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\it\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\ja\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\ko\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\nb-NO\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\nl\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\pl\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\pt\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\ru\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\sk\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\sv\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\th\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\tr\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\zh-CHS\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\zh-CHT\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+C:\Users\HongHa\Desktop\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\QLNS.exe.config
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\QLNS.exe
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\QLNS.pdb
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.Shared.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\FlashControlV71.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\log4net.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\ShockwaveFlashObjects.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\System.Web.Services.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\stdole.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\log4net.xml
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\cs\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\da\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\de\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\en\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\fi\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\fr\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\hu\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\it\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\ja\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\ko\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\nb-NO\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\nl\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\pl\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\pt\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\ru\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\sk\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\sv\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\th\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\tr\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\zh-CHS\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\zh-CHT\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.csprojAssemblyReference.cache
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.bcnv.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.Form1.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.cache
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.csproj.CoreCompileInputs.cache
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.csproj.CopyComplete
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.exe
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19\QLNS\QLNS\obj\Debug\QLNS.pdb
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\QLNS.exe.config
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\QLNS.exe
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\QLNS.pdb
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.Shared.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\FlashControlV71.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\log4net.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ShockwaveFlashObjects.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\System.Web.Services.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\stdole.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\log4net.xml
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\cs\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\da\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\de\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\en\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\fi\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\fr\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\hu\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\it\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ja\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ko\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\nb-NO\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\nl\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\pl\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\pt\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ru\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\sk\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\sv\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\th\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\tr\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\zh-CHS\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\zh-CHT\CrystalDecisions.Windows.Forms.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.bcnv.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.Form1.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.FrmMain.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.exe
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.pdb
+D:\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.csprojResolveAssemblyReference.cache
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\QLNS.exe.config
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\QLNS.exe
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\QLNS.pdb
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.Shared.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\FlashControlV71.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\log4net.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ShockwaveFlashObjects.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\System.Web.Services.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\stdole.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\log4net.xml
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\cs\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\da\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\de\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\en\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\fi\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\fr\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\hu\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\it\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ja\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ko\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\nb-NO\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\nl\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\pl\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\pt\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ru\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\sk\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\sv\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\th\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\tr\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\zh-CHS\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\zh-CHT\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.bcnv.resources
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frm_Report.resources
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.Frm_Main.resources
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.exe
+D:\BaitapCSharp\Quanlinhansutienluong_PhamDangHongGiang_CNTT1K19_OK\QLNS\QLNS\obj\Debug\QLNS.pdb
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\QLNS.exe.config
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\QLNS.exe
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.Shared.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\FlashControlV71.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\log4net.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\ShockwaveFlashObjects.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\System.Web.Services.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\stdole.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\log4net.xml
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\cs\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\da\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\de\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\en\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\fi\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\fr\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\hu\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\it\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\ja\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\ko\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\nb-NO\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\nl\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\pl\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\pt\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\ru\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\sk\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\sv\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\th\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\tr\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\zh-CHS\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\zh-CHT\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.csprojResolveAssemblyReference.cache
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.bcnv.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.frm_Report.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.Frm_Main.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.exe
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.pdb
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\QLNS.pdb
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_5_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmphanquyen.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\QLNS.exe.config
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\QLNS.exe
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\QLNS.pdb
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.Shared.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\FlashControlV71.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\log4net.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ShockwaveFlashObjects.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\System.Web.Services.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\stdole.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\log4net.xml
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\cs\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\da\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\de\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\en\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\fi\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\fr\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\hu\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\it\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ja\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ko\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\nb-NO\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\nl\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\pl\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\pt\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ru\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\sk\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\sv\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\th\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\tr\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\zh-CHS\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\zh-CHT\CrystalDecisions.Windows.Forms.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.csprojResolveAssemblyReference.cache
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.bcnv.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frm_Report.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.Frm_Main.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmphanquyen.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.exe
+D:\BaitapCSharp\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.pdb
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\QLNS.exe.config
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\Interop.WMPLib.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\AxInterop.WMPLib.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.exe
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.pdb
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\QLNS.exe
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\QLNS.pdb
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\FlashControlV71.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ShockwaveFlashObjects.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\System.Web.Services.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\stdole.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\log4net.xml
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\cs\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\da\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\de\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\en\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\fi\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\fr\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\hu\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\it\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ja\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ko\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\nb-NO\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\nl\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\pl\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\pt\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ru\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\sk\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\sv\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\th\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\tr\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\zh-CHS\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\zh-CHT\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\Interop.WMPLib.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\bin\Debug\AxInterop.WMPLib.dll
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.bcnv.resources
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frm_Report.resources
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmdangki.resources
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmbangcong.resources
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmbophan.resources
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmchedo.resources
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmcoban.resources
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmluong.resources
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.Frm_Main.resources
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmphanquyen.resources
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmtienluong.resources
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.frmphongban.resources
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+D:\laptrinh\QLNSTL_PhamGiang_11_10_2020\QLNS\QLNS\obj\Debug\QLNS.csprojResolveAssemblyReference.cache
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\QLNS.exe.config
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\Interop.WMPLib.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\AxInterop.WMPLib.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.exe
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.pdb
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.csprojResolveAssemblyReference.cache
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.bcnv.resources
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frm_Report.resources
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmdangki.resources
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmbangcong.resources
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmbophan.resources
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmchedo.resources
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmcoban.resources
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmluong.resources
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.Frm_Main.resources
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmphanquyen.resources
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmtienluong.resources
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmphongban.resources
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+D:\laptrinh\QuanlyNhanSu\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\QLNS.exe
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\QLNS.pdb
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.Shared.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\FlashControlV71.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\log4net.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\ShockwaveFlashObjects.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\System.Web.Services.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\stdole.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\log4net.xml
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\cs\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\da\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\de\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\en\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\fi\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\fr\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\hu\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\it\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\ja\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\ko\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\nb-NO\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\nl\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\pl\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\pt\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\ru\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\sk\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\sv\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\th\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\tr\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\zh-CHS\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\zh-CHT\CrystalDecisions.Windows.Forms.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\Interop.WMPLib.dll
+D:\laptrinh\QuanlyNhanSu\QLNS\bin\Debug\AxInterop.WMPLib.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\QLNS.exe.config
+D:\QuanlyNhanSu\QLNS\bin\Debug\QLNS.exe
+D:\QuanlyNhanSu\QLNS\bin\Debug\QLNS.pdb
+D:\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.Shared.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\FlashControlV71.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\log4net.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\ShockwaveFlashObjects.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\System.Web.Services.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\stdole.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\log4net.xml
+D:\QuanlyNhanSu\QLNS\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\cs\CrystalDecisions.Windows.Forms.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\da\CrystalDecisions.Windows.Forms.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\de\CrystalDecisions.Windows.Forms.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\en\CrystalDecisions.Windows.Forms.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\fi\CrystalDecisions.Windows.Forms.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\fr\CrystalDecisions.Windows.Forms.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\hu\CrystalDecisions.Windows.Forms.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\it\CrystalDecisions.Windows.Forms.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\ja\CrystalDecisions.Windows.Forms.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\ko\CrystalDecisions.Windows.Forms.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\nb-NO\CrystalDecisions.Windows.Forms.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\nl\CrystalDecisions.Windows.Forms.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\pl\CrystalDecisions.Windows.Forms.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\pt\CrystalDecisions.Windows.Forms.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\ru\CrystalDecisions.Windows.Forms.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\sk\CrystalDecisions.Windows.Forms.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\sv\CrystalDecisions.Windows.Forms.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\th\CrystalDecisions.Windows.Forms.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\tr\CrystalDecisions.Windows.Forms.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\zh-CHS\CrystalDecisions.Windows.Forms.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\zh-CHT\CrystalDecisions.Windows.Forms.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\Interop.WMPLib.dll
+D:\QuanlyNhanSu\QLNS\bin\Debug\AxInterop.WMPLib.dll
+D:\QuanlyNhanSu\QLNS\obj\Debug\Interop.WMPLib.dll
+D:\QuanlyNhanSu\QLNS\obj\Debug\AxInterop.WMPLib.dll
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.bcnv.resources
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frm_Report.resources
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmdangki.resources
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmbangcong.resources
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmbophan.resources
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmchedo.resources
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmcoban.resources
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmluong.resources
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.Frm_Main.resources
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmphanquyen.resources
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmtienluong.resources
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmphongban.resources
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.exe
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.pdb
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.csprojAssemblyReference.cache
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.csproj.CoreCompileInputs.cache
+D:\QuanlyNhanSu\QLNS\obj\Debug\QLNS.csproj.CopyComplete
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\QLNS.exe.config
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\QLNS.exe
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\QLNS.pdb
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\FlashControlV71.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\log4net.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\System.Web.Services.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\stdole.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\log4net.xml
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\cs\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\da\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\de\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\en\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\fi\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\fr\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\hu\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\it\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\ja\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\ko\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\nb-NO\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\nl\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\pl\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\pt\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\ru\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\sk\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\sv\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\th\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\tr\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\zh-CHS\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\zh-CHT\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\Interop.WMPLib.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.csproj.AssemblyReference.cache
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\Interop.WMPLib.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.csproj.ResolveComReference.cache
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.bcnv.resources
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frm_Report.resources
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmdangki.resources
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmbangcong.resources
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmbophan.resources
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmchedo.resources
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmcoban.resources
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmdangnhap.resources
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmdoimatkhau.resources
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmhosothuviec.resources
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmluong.resources
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.Frm_Main.resources
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmphanquyen.resources
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmthongtincanhan.resources
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmtienluong.resources
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmtimkiem.resources
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmtrogiup.resources
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.frmphongban.resources
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.csproj.GenerateResource.cache
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.csproj.CoreCompileInputs.cache
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.csproj.CopyComplete
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.exe
+C:\Users\HongGiang\Desktop\QuanlyNhanSu\QLNS\obj\Debug\QLNS.pdb

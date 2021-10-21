@@ -1,0 +1,5 @@
+core-setup b9aa1abc510165cdc4c92e59d938def6f3eee0e1
+corefx 7fa45dc0661b0df16e0649a3f054a0dc1c9200aa
+dotnet/versions/corefx c071a2753107330cb958b58d388bb69440253257
+coreclr 9f5a8dda38fa26eae4f8ddd05d062a9de3ac4765
+dotnet/versions/coreclr c071a2753107330cb958b58d388bb69440253257
